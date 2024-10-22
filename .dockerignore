@@ -1,0 +1,31 @@
+# Docker stuff
+Dockerfile
+.dockerignore
+*.docker
+
+# Git stuff
+.git/
+.gitignore
+**/.gitkeep
+
+# Make stuff
+Makefile
+
+# Python stuff
+*.egg-info
+*.pyc
+
+# Useless stuff
+*.md
+LICENSE
+MANIFEST.in
+*tmp*
+bitbucket*.yml
+
+# Virtual environments
+venv/
+.venv/
+
+# Configs
+*config.json
+*.env

@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Sensitive data
+.env
+config.json
+
+# Python files
+*.pyc
+*egg-info/
+
+# Temporary files
+**/tmp*
